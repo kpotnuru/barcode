@@ -1,3 +1,14 @@
+/*************************************************************************
+ * 
+ * Licensed Materials - Property of Perficient Inc, Kiran Potnuru
+ * IBM Sterling Selling and Fulfillment Suite - Foundation
+ * (C) Copyright Perficient Inc All Rights Reserved.
+ * @author Kiran Potnuru
+ * NOTICE:  All information contained herein is, and remains
+ * the property of Kiran Potnuru
+ * 
+ */
+
 package com.perf.oms.print.utils;
 
 import java.awt.image.BufferedImage;
