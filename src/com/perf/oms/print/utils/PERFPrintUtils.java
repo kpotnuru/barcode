@@ -1,6 +1,6 @@
 /*************************************************************************
  * 
- * Licensed Materials - Property of Kiran Potnuru & Perficient Inc.
+ * Licensed Materials - Property of Kiran Potnuru 
  * 
  * (C) Copyright Perficient Inc All Rights Reserved.
  * @author Kiran Potnuru
