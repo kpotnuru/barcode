@@ -1,14 +1,3 @@
-/*************************************************************************
- * 
- * Licensed Materials - Property of Kiran Potnuru 
- * 
- * (C) Copyright Perficient Inc All Rights Reserved.
- * @author Kiran Potnuru
- * NOTICE:  All information contained herein is, and remains
- * the property of Kiran Potnuru
- * 
- *************************************************************************/
-
 package com.perf.oms.print.utils;
 
 import java.awt.image.BufferedImage;
